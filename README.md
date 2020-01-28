@@ -7,9 +7,9 @@ Impartido:
 * Pyladies-México 13 y 14 de febrero de 2020
 
 ## Requisitos:
-Saber usar R, SAS, STATA o Excel avanzado.
-Tener [anaconda](https://www.anaconda.com/distribution/) instalado.
-Acceso a internet.
+* Saber usar R, SAS, STATA o Excel avanzado.
+* Tener [anaconda](https://www.anaconda.com/distribution/) instalado.
+* Acceso a internet.
 
 ## Índice
 
