@@ -22,7 +22,7 @@ Impartido:
     1. Descargar datos abiertos
     2. ¿Qué es un dato?
     3. Cargar los datos en python
-        * Unicacion en la carpeta
+        * Ubicacion en la carpeta
         * Excel, csv, pickle
 
 3. [Limpieza de datos](./CP-ObtencionLimpieza.ipynb)
@@ -41,8 +41,8 @@ Impartido:
         * Eliminar datos fuera de rango (map, replace)
         * Datos faltantes (fillna)
     5. Guardar datos
-        * Excel y csv
-        * pickle
+        * Excel y cs
+ v       * pickle
 
 4. [Gráficación básica](./CP-AnalisisGraficas.ipynb)
     1. Tipos de gráficas (lines, bars, scatter, hist)
